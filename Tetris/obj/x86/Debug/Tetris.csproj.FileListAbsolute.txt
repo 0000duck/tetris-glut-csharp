@@ -1,0 +1,7 @@
+J:\_PROGRAM_dup\_csharp\Tetris\Tetris\bin\Debug\Tetris.exe
+J:\_PROGRAM_dup\_csharp\Tetris\Tetris\bin\Debug\Tetris.pdb
+J:\_PROGRAM_dup\_csharp\Tetris\Tetris\bin\Debug\Tao.FreeGlut.dll
+J:\_PROGRAM_dup\_csharp\Tetris\Tetris\bin\Debug\Tao.OpenGl.dll
+J:\_PROGRAM_dup\_csharp\Tetris\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\_PROGRAM_dup\_csharp\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+J:\_PROGRAM_dup\_csharp\Tetris\Tetris\obj\x86\Debug\Tetris.pdb

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3FBA3404-3B36-4471-889D-C553E40676F4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tetris/Visual.cs">
+    <Files>
+      <File FileName="Tetris/Visual.cs" Line="206" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tetris" expanded="True">
+            <Node name="Tetris" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Visual.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Tetris PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

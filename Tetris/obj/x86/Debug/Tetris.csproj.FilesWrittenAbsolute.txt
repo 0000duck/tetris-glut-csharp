@@ -1,0 +1,9 @@
+/Users/tirinox/Projects/OldScience/Tetris/Tetris/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/tirinox/Projects/OldScience/Tetris/Tetris/bin/Debug/Tetris.exe.mdb
+/Users/tirinox/Projects/OldScience/Tetris/Tetris/bin/Debug/Tetris.pdb
+/Users/tirinox/Projects/OldScience/Tetris/Tetris/bin/Debug/Tetris.exe
+/Users/tirinox/Projects/OldScience/Tetris/Tetris/obj/x86/Debug/Tetris.exe
+/Users/tirinox/Projects/OldScience/Tetris/Tetris/obj/x86/Debug/Tetris.exe.mdb
+/Users/tirinox/Projects/OldScience/Tetris/Tetris/obj/x86/Debug/Tetris.pdb
+/Users/tirinox/Projects/OldScience/Tetris/Tetris/bin/Debug/Tao.FreeGlut.dll
+/Users/tirinox/Projects/OldScience/Tetris/Tetris/bin/Debug/Tao.OpenGl.dll
